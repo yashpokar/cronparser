@@ -36,3 +36,12 @@ month          1 2 3 4 5 6 7 8 9 10 11 12
 day of week    1 15
 command        /usr/bin/find
 ```
+
+## TODOs
+
+- [ ] support for literal months. eg. 'jan', 'feb', 'mar' etc
+- [ ] support for literal days. eg. 'mon', 'tue', 'wed' etc
+- [ ] support for multiple operators. eg. 0-4,8-12
+- [ ] unit tests
+- [ ] pylint configuration
+- [ ] tox configuration
